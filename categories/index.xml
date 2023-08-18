@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sisters Trips | Voyage</title>
-    <link>https://example.org/categories/</link>
+    <link>https://alexane1806.github.io/systerstrips/categories/</link>
     <description>Recent content in Categories on Sisters Trips | Voyage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 18 Aug 2023 14:40:32 +0200</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 14:40:32 +0200</lastBuildDate><atom:link href="https://alexane1806.github.io/systerstrips/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>voyage</title>
-      <link>https://example.org/categories/voyage/</link>
+      <link>https://alexane1806.github.io/systerstrips/categories/voyage/</link>
       <pubDate>Fri, 18 Aug 2023 14:40:32 +0200</pubDate>
       
-      <guid>https://example.org/categories/voyage/</guid>
+      <guid>https://alexane1806.github.io/systerstrips/categories/voyage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pays</title>
-      <link>https://example.org/categories/pays/</link>
+      <link>https://alexane1806.github.io/systerstrips/categories/pays/</link>
       <pubDate>Fri, 18 Aug 2023 12:20:16 +0200</pubDate>
       
-      <guid>https://example.org/categories/pays/</guid>
+      <guid>https://alexane1806.github.io/systerstrips/categories/pays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>region</title>
-      <link>https://example.org/categories/region/</link>
+      <link>https://alexane1806.github.io/systerstrips/categories/region/</link>
       <pubDate>Fri, 18 Aug 2023 12:20:16 +0200</pubDate>
       
-      <guid>https://example.org/categories/region/</guid>
+      <guid>https://alexane1806.github.io/systerstrips/categories/region/</guid>
       <description></description>
     </item>
     

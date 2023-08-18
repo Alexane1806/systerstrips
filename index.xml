@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sisters Trips | Voyage</title>
-    <link>https://example.org/</link>
+    <link>https://alexane1806.github.io/systerstrips/</link>
     <description>Recent content on Sisters Trips | Voyage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 18 Aug 2023 14:40:32 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 14:40:32 +0200</lastBuildDate><atom:link href="https://alexane1806.github.io/systerstrips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chypre</title>
-      <link>https://example.org/page/chypre/</link>
+      <link>https://alexane1806.github.io/systerstrips/page/chypre/</link>
       <pubDate>Fri, 18 Aug 2023 14:40:32 +0200</pubDate>
       
-      <guid>https://example.org/page/chypre/</guid>
+      <guid>https://alexane1806.github.io/systerstrips/page/chypre/</guid>
       <description>Voyage à Chypre</description>
     </item>
     
     <item>
       <title>Bretagne</title>
-      <link>https://example.org/page/bretagne/</link>
+      <link>https://alexane1806.github.io/systerstrips/page/bretagne/</link>
       <pubDate>Fri, 18 Aug 2023 12:20:16 +0200</pubDate>
       
-      <guid>https://example.org/page/bretagne/</guid>
+      <guid>https://alexane1806.github.io/systerstrips/page/bretagne/</guid>
       <description>Découverte de la plus belle région de France (après champniers)
 Lets go</description>
     </item>
